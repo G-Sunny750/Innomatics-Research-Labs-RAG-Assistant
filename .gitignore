@@ -1,0 +1,5 @@
+venv/ 
+*.zip 
+chroma_db/ 
+chroma_db_minilm/ 
+faiss_index/ 
