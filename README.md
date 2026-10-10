@@ -33,3 +33,18 @@ Innomatics-Research-Labs-RAG-Assistant/
 ├── requirements.txt            # Python Dependencies
 ├── .gitignore                  # Git Ignore File (excludes virtual envs & local vector stores)
 └── README.md                   # Project Documentation
+
+
+🛠️ Tech StackLanguage: PythonInterface: StreamlitRAG Framework & Vector Stores: LangChain / Chroma / FAISSData Sources: Official Innomatics Research Labs Web Pages & Documents[cite: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+
+⚙️ Installation & SetupClone the Repository:Bashgit clone [https://github.com/G-Sunny750/Innomatics-Research-Labs-RAG-Assistant.git](https://github.com/G-Sunny750/Innomatics-Research-Labs-RAG-Assistant.git)
+cd Innomatics-Research-Labs-RAG-Assistant
+Create and Activate a Virtual Environment:Bashpython -m venv venv
+# On Windows:
+venv\Scripts\activate
+# On macOS/Linux:
+source venv/bin/activate
+Install Dependencies:Bashpip install -r requirements.txt
+Run the Application:Bashstreamlit run app.py
+
+📞 Official Contact & SupportCourse Enquiries: admissions@innomatics.in / info@innomatics.in   Career Enquiries: hr@innomatics.in   Phone / WhatsApp: +91 9951666670 (Hyderabad / JNTU)[cite: 2]
